@@ -1,2 +1,0 @@
-# sampleRepo
-Python test repo
